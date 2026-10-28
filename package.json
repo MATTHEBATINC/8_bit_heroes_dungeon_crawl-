@@ -1,0 +1,9 @@
+{
+  "name": "pixel-legends-online",
+  "version": "1.0.0",
+  "description": "Pixel Legends: Endless Dungeon - online co-op server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
